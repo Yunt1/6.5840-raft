@@ -1,0 +1,4 @@
+pkg/
+*-handin.tar.gz
+*.log
+.DS_Store
